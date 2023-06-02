@@ -1,12 +1,12 @@
 # Optimism-PoC
-Proof of concept for Optimism chain
+## Proof of concept for Optimism chain
 
 This includes the powerBI file used to generate a generic overview dashboard for the PoC
 ![summary statistics new](https://github.com/Adebolaorogun/Optimism-PoC/assets/98488336/38b991af-8326-44c0-96f1-8de26138e579)
 
 This repository contains the Power BI dashboard project that includes advanced analysis based on the provided dataset. The dashboard aims to provide insights and visualize key metrics related to addresses, ENS names, followers, votes, proposal interactions, NFTs, and associated rewards.
 
-##Dataset
+## Dataset
 
 The dataset used for this Power BI project consists of the following columns:
 
@@ -22,9 +22,9 @@ address: The unique identifier for each address.
 - total_nft: The total count of NFTs associated with each address.
 - rewards_nft: The total rewards associated with NFTs for each address.
 
-## Dashboard Analysis
+# Dashboard Analysis
 
-# The Power BI dashboard includes the following advanced analysis techniques:
+## The Power BI dashboard includes the following advanced analysis techniques:
 
 Overall Summary Metrics:
 
@@ -67,13 +67,14 @@ Open Power BI Desktop and open the .pbix file from the repository.
 Connect the dashboard to your dataset or replace the existing dataset with your own.
 Adjust the visuals and filters as needed.
 Save the Power BI project and share it with others or publish it to the Power BI service for online access.
-Requirements
+
+## Requirements
 
 Power BI Desktop (latest version recommended) to open and modify the Power BI project.
 A compatible dataset that includes the columns mentioned above.
 Contributing
 
 
-# License
+## License
 
 This project is licensed under Mosaic.fun
