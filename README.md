@@ -11,17 +11,18 @@ This repository contains the Power BI dashboard project that includes advanced a
 The dataset used for this Power BI project consists of the following columns:
 
 address: The unique identifier for each address.
-ens_name: The Ethereum Name Service (ENS) name associated with each address.
-follow_count: The count of followers for each address.
-follow_count_space: The count of followers categorized as "space" followers.
-follow_count_non_space: The count of followers categorized as "non-space" followers.
-total_votes: The total number of votes received by each address.
-total_proposal_interaction: The total number of interactions on proposals for each address.
-total_proposal_interaction_in_space: The total number of interactions on proposals categorized as "space" interactions.
-total_proposal_interaction_non_space: The total number of interactions on proposals categorized as "non-space" interactions.
-total_nft: The total count of NFTs associated with each address.
-rewards_nft: The total rewards associated with NFTs for each address.
-Dashboard Analysis
+- ens_name: The Ethereum Name Service (ENS) name associated with each address.
+- follow_count: The count of followers for each address.
+- follow_count_space: The count of followers categorized as "space" followers.
+- follow_count_non_space: The count of followers categorized as "non-space" followers.
+- total_votes: The total number of votes received by each address.
+- total_proposal_interaction: The total number of interactions on proposals for each address.
+- total_proposal_interaction_in_space: The total number of interactions on proposals categorized as "space" interactions.
+- total_proposal_interaction_non_space: The total number of interactions on proposals categorized as "non-space" interactions.
+- total_nft: The total count of NFTs associated with each address.
+- rewards_nft: The total rewards associated with NFTs for each address.
+
+## Dashboard Analysis
 
 # The Power BI dashboard includes the following advanced analysis techniques:
 
